@@ -11,10 +11,19 @@ I'm a developer at [FutureEnergy](https://futurenergy.mx) where we install solar
 
 ### What I'm working on
 
+**At FutureEnergy**
 - **installer-app** — Flutter app installers use on-site to log work, capture photos, and sync jobs offline.
 - **installer-nest** — NestJS backend that ties the installer app to Salesforce and the rest of our stack.
-- **pronto-resolver** — Supabase + Edge Functions service that resolves customer issues from incoming signals.
-- **Salesforce MCP server** — internal tool so the team can query Salesforce from Claude Code.
+- **pronto-resolver** — Supabase + Edge Functions service that triages and resolves customer issues from incoming signals.
+- **futurenergy-monitor** — Dashboard for monitoring deployed solar systems in the field.
+- **solar-prospector** — Tooling that turns raw leads into qualified solar opportunities.
+- **futurform** — In-house form builder for surveys, audits, and intake flows.
+- **salesforce-mcp / futurenergy-claude** — Internal MCP server and skill set so the team can drive Salesforce from Claude Code.
+
+**Side projects**
+- **[zeroclaw](https://github.com/huligabuliga/zeroclaw-railway)** — Small, fully autonomous AI personal-assistant infra in Rust — deploy anywhere, swap anything.
+- **[Mejoravit](https://github.com/huligabuliga/Mejoravit-Futurenergy)** — Web app for Infonavit's Mejoravit home-improvement program.
+- Wedding sites, party games, a 3D physics timer — whatever the moment calls for.
 
 ### Stack
 
@@ -46,4 +55,5 @@ I'm a developer at [FutureEnergy](https://futurenergy.mx) where we install solar
 
 ### Reach me
 
-[![Email](https://img.shields.io/badge/jonas.clausen@futurenergy.mx-D14836?style=flat&logo=gmail&logoColor=white)](mailto:jonas.clausen@futurenergy.mx)
+[![Work](https://img.shields.io/badge/jonas.clausen@futurenergy.mx-FFB400?style=flat&logo=maildotru&logoColor=white)](mailto:jonas.clausen@futurenergy.mx)
+[![Personal](https://img.shields.io/badge/jonastclausen@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:jonastclausen@gmail.com)
