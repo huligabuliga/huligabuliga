@@ -51,12 +51,6 @@ I'm a developer at [FutureEnergy](https://futurenergy.mx) where we install solar
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat&logo=archlinux&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat&logo=anthropic&logoColor=white)
 
-### Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=huligabuliga&show_icons=true&hide=issues&hide_border=true&title_color=3ECF8E&icon_color=3ECF8E&text_color=c9d1d9&bg_color=0d1117" />
-</p>
-
 ### Reach me
 
 [![Work](https://img.shields.io/badge/jonas.clausen@futurenergy.mx-FFB400?style=flat&logo=maildotru&logoColor=white)](mailto:jonas.clausen@futurenergy.mx)
