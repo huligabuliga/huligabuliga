@@ -21,9 +21,13 @@ I'm a developer at [FutureEnergy](https://futurenergy.mx) where we install solar
 - **salesforce-mcp / futurenergy-claude** — Internal MCP server and skill set so the team can drive Salesforce from Claude Code.
 
 **Side projects**
+- **[Omasticky](https://github.com/huligabuliga/Omasticky)** — Microsoft-style markdown sticky notes pinned to the Omarchy desktop.
 - **[zeroclaw railway container](https://github.com/huligabuliga/zeroclaw-railway)** — Small, fully autonomous AI personal-assistant infra in Rust — deploy anywhere, swap anything railway template for easy click and deploy.
 - **[Mejoravit landing page](https://github.com/huligabuliga/Mejoravit-Futurenergy)** — Web app for Infonavit's Mejoravit home-improvement program.
 - Wedding sites, party games, a 3D physics timer — whatever the moment calls for.
+
+**Contributed to**
+- **[omarchy-nothing-ear](https://github.com/r-witz/omarchy-nothing-ear)** — Nothing audio gear in the Omarchy bar. Added support for Nothing Headphone (1).
 
 ### Stack
 
